@@ -10,10 +10,10 @@ Welcome to the official repository of **Team Pinnacle** for the **Sona Power Pre
 * **Team Name:** Team Pinnacle
 * **Team Members:**
   1. **Jigyasa Jaiswal**  
-     * *College Year:* 2nd Year (Sophomore)  
+     * *College Year:* 2nd Year 
      * *Department:* Computer Science and Engineering (Data Science)
   2. **Aadesh Mishra**  
-     * *College Year:* 2nd Year (Sophomore)  
+     * *College Year:* 2nd Year  
      * *Department:* Computer Science and Engineering
 
 ---
